@@ -9,5 +9,8 @@ object A01运算符 {
     val a = if (num>0.5) "a" else 3.0
 
     println(a)
+
+    val + = 100
+    println(+)
   }
 }
