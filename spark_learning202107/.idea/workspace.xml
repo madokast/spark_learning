@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A02Method.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCountJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/sparkTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/target/classes/com/atguigu/bigdata/spark/core/A01WordCount$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/target/classes/com/atguigu/bigdata/spark/core/A01WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/target/classes/com/atguigu/bigdata/spark/core/A01WordCountJ.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/target/classes/com/atguigu/bigdata/sparkTest$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/target/classes/com/atguigu/bigdata/sparkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A01变量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A01变量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A02ShortAndChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A02ShortAndChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A03异常.java" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/java/com/atguigu/ch01/A03异常.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch02数据类型/A13Range.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch02数据类型/A13Range.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A01运算符.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A01运算符.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A02StdIn.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A02StdIn.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A03Trait.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A03Trait.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A04IfElse.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A04IfElse.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A05ForLoop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A05ForLoop.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A05ForNewVar.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A05ForNewVar.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A06ForGuard.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A06ForGuard.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A07ForIJ.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A07ForIJ.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A08循环到数组.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A08循环到数组.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A14While.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A14While.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A16BreakContinue.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch03/A16BreakContinue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A01函数和方法.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A01函数和方法.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A02Recur.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A02Recur.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A03起飞$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A03起飞.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A03起飞.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A04Def.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A04Def.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A04FunParm$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A04FunParm.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A04FunParm.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A05可变参数.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A05可变参数.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A06Lazy惰性函数.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch04函数/A06Lazy惰性函数.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch05异常/A01异常.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch05异常/A01异常.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch05异常/A02声明函数可能抛出的异常.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch05异常/A02声明函数可能抛出的异常.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A01类.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A01类.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A02Foreach.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A02Foreach.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vAW6a4iGm3btZ7Jye7FsCmpz9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.21012658" />
+    <property name="project.structure.side.proportion" value="0.2504013" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.A01WordCount">
+    <configuration name="A01WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.A01WordCount" />
+      <module name="spark-core-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A01WordCountJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.A01WordCountJ" />
+      <module name="spark-core-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spark" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.sparkTest" />
+      <module name="spark-core-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A01WordCount" />
+        <item itemvalue="Application.spark" />
+        <item itemvalue="Application.A01WordCountJ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="" />
+      <created>1626005201524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626005201524</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

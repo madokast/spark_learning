@@ -1,4 +1,4 @@
-package com.atguigu.ch03运算符
+package com.atguigu.ch03
 
 object A01运算符 {
   def main(args: Array[String]): Unit = {

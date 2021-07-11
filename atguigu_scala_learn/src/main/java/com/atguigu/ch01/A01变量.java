@@ -7,5 +7,8 @@ public class A01变量 {
         System.out.println(Integer.valueOf(a).getClass());
 
         System.out.println(int.class);
+
+        int b = 'a';
+        System.out.println("b = " + b);
     }
 }
