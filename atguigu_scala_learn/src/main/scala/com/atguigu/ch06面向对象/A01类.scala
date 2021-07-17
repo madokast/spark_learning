@@ -15,15 +15,23 @@ object A01类 {
     println(d.name)
     println(d.age)
     println(d.n)
-//    println(d.n.getClass) // npe
+    //    println(d.n.getClass) // npe
 
     println({})
-    println({1})
-    println({1->2})
+    println({
+      1
+    })
+    println({
+      1 -> 2
+    })
 
     println({}.getClass)
-    println({1}.getClass)
-    println({1->2}.getClass)
+    println({
+      1
+    }.getClass)
+    println({
+      1 -> 2
+    }.getClass)
 
   }
 }
