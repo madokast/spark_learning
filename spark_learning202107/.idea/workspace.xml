@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A01类.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../atguigu_scala_learn/src/main/scala/com/atguigu/ch06面向对象/A01类.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/word_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.21012658" />
     <property name="project.structure.side.proportion" value="0.2504013" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager" selected="Application.A01WordCount">
     <configuration name="A01WordCount" type="Application" factoryName="Application" temporary="true">
