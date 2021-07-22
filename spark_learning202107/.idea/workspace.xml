@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/word_count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A02WordCountReduce.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCountJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCountJ.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,12 @@
     <property name="project.structure.side.proportion" value="0.2504013" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.A01WordCount">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.bigdata.spark.core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.A01WordCountJ">
     <configuration name="A01WordCount" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.A01WordCount" />
       <module name="spark-core-learn" />
@@ -75,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="A02WordCountReduce" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.spark.core.A02WordCountReduce" />
+      <module name="spark-core-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.bigdata.spark.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="spark" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.bigdata.sparkTest" />
       <module name="spark-core-learn" />
@@ -90,9 +110,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A01WordCountJ" />
+        <item itemvalue="Application.A02WordCountReduce" />
         <item itemvalue="Application.A01WordCount" />
         <item itemvalue="Application.spark" />
-        <item itemvalue="Application.A01WordCountJ" />
       </list>
     </recent_temporary>
   </component>
