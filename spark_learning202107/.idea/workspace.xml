@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A02WordCountReduce.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCountJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A01WordCountJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-core-learn/src/main/java/com/atguigu/bigdata/spark/core/A03WordCountLocal.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,5 +139,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
