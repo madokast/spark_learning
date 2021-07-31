@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spark-core-learn" />
+        <module name="hadoop-learn" />
+        <module name="Hive" />
+        <module name="spark23-core-learn" />
       </profile>
     </annotationProcessing>
   </component>

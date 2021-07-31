@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spark-core-learn</module>
+        <module>hadoop-learn</module>
+        <module>Hive</module>
+        <module>spark23-core-learn</module>
     </modules>
 
     <properties>
