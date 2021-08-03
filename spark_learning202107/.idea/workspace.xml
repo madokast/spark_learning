@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/A01WordCount2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/AggregateByKey.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Collect.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/FlatMap.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Glom.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/GroupBy.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Intersection.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Join.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Map.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/MapPartitions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/MapPartitionsWithIndex.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/PartitionBy.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/Sample.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/SortBy.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/Average.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/ClosureTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/DoubleBrace.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/Persist.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/SharedAdder.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/test/Top3.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/rdd/CreateRDD.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/rdd/CreateRDD.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/BroadcastValue.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark23-core-learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/remote/A02SumCluster.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/remote/A02SumCluster.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,20 +75,20 @@
       <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\hadoop-learn\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.spark.core.other" />
       <recent name="com.atguigu.spark.core" />
       <recent name="com.atguigu.spark.core.operator" />
       <recent name="com.atguigu.spark.core.remote" />
       <recent name="com.atguigu.hdfs" />
-      <recent name="com.atguigu.bigdata.spark.core" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SharedAdder">
-    <configuration name="A01WordCount2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.A01WordCount2" />
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="BroadcastValue" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.other.BroadcastValue" />
       <module name="spark23-core-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.core.*" />
+          <option name="PATTERN" value="com.atguigu.spark.core.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collect" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.operator.Collect" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.dataFrame.HelloWorld" />
       <module name="spark23-core-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.core.operator.*" />
+          <option name="PATTERN" value="com.atguigu.spark.core.dataFrame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.BroadcastValue" />
         <item itemvalue="Application.SharedAdder" />
         <item itemvalue="Application.Persist" />
         <item itemvalue="Application.ClosureTest" />
-        <item itemvalue="Application.A01WordCount2" />
-        <item itemvalue="Application.Collect" />
       </list>
     </recent_temporary>
   </component>
