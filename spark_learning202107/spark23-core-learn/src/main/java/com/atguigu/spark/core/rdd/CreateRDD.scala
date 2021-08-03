@@ -17,6 +17,8 @@ object CreateRDD{
 
     sc.textFile("data/word_count.txt").foreach(println)
 
+    sc.wholeTextFiles("data").foreach(println)
+
     //
 //    sc.makeRDD(List("abb","cdd")).saveAsTextFile("CreateRDD.txt")
 
