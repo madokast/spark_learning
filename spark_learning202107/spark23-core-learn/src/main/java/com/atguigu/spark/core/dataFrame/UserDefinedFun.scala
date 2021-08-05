@@ -8,7 +8,7 @@ import org.apache.spark.sql.SparkSession
  * @Date 2021/8/3 17:43
  * @Created by ZhaoRX
  */
-object HelloWorld {
+object UserDefinedFun {
   def main(args: Array[String]): Unit = {
     val sparkConf = new SparkConf().setMaster("local[1]").setAppName("sql")
 
@@ -16,7 +16,11 @@ object HelloWorld {
 
     val dataFrame = sparkSession.read.json("data/users.json")
 
-    dataFrame.show()
+    dataFrame.createOrReplaceTempView("user")
+
+    sparkSession.udf.register("fun", (str: String) => "--" + str + "--")
+
+    sparkSession.sql("select fun(name) from user").show()
 
     sparkSession.close()
   }
