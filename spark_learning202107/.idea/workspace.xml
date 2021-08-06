@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/DSL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/RDD2DF.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/RDD2DS.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/SQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/UserDefinedFun.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/UserDefinedFunAgg.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/UserDefinedFunAggType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/hdfs/CreateWriteReadDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/hive/InnerTables.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Hive.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Mysql.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/resources/hive-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/AggregateByKeyJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadoop-learn/src/main/java/com/atguigu/hdfs/CreateWriteReadDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/hadoop-learn/src/main/java/com/atguigu/hdfs/CreateWriteReadDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/HelloWorld.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/dataFrame/HelloWorld.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Hive.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Hive.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/spark23-core-learn-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Scala Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -110,13 +89,13 @@
       <recent name="com.atguigu.spark.core.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hive">
-    <configuration name="ConnectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.hive2.ConnectTest" />
-      <module name="Hive" />
+  <component name="RunManager" selected="Application.AggregateByKeyJava">
+    <configuration name="AggregateByKeyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.operator.AggregateByKeyJava" />
+      <module name="spark23-core-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.hive2.*" />
+          <option name="PATTERN" value="com.atguigu.spark.core.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateWriteReadDelete (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.hdfs.CreateWriteReadDelete" />
-      <module name="spark23-core-learn" />
+    <configuration name="ConnectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.hive2.ConnectTest" />
+      <module name="Hive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.core.hdfs.*" />
+          <option name="PATTERN" value="com.atguigu.hive2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AggregateByKeyJava" />
         <item itemvalue="Application.Hive" />
         <item itemvalue="Application.ConnectTest" />
         <item itemvalue="Application.InnerTables" />
         <item itemvalue="Application.Mysql" />
-        <item itemvalue="Application.CreateWriteReadDelete (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +177,7 @@
       <workItem from="1628082851831" duration="1504000" />
       <workItem from="1628085926552" duration="487000" />
       <workItem from="1628144772271" duration="5812000" />
-      <workItem from="1628152450964" duration="1027000" />
+      <workItem from="1628152450964" duration="5700000" />
     </task>
     <servers />
   </component>

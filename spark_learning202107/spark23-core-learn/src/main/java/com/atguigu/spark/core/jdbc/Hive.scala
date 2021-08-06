@@ -17,7 +17,7 @@ object Hive {
 
 //    spark.sql("LOAD DATA LOCAL INPATH 'data/id.txt' INTO TABLE user").show()
 
-    spark.sql("insert into user values(0)").show()
+    1.to(10).foreach(i=>spark.sql(s"insert into user values($i)").show)
 
     spark.sql("select * from user").show()
 
