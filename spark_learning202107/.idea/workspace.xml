@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/operator/AggregateByKeyJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/other/SparkLauncherLearn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Hive.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/java/com/atguigu/spark/core/jdbc/Hive.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark23-core-learn/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spark23-core-learn/target/classes/log4j.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +86,7 @@
       <recent name="com.atguigu.spark.core.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AggregateByKeyJava">
+  <component name="RunManager" selected="Application.SparkLauncherLearn">
     <configuration name="AggregateByKeyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.operator.AggregateByKeyJava" />
       <module name="spark23-core-learn" />
@@ -142,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mysql" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.jdbc.Mysql" />
+    <configuration name="SparkLauncherLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.other.SparkLauncherLearn" />
       <module name="spark23-core-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.core.jdbc.*" />
+          <option name="PATTERN" value="com.atguigu.spark.core.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SparkLauncherLearn" />
         <item itemvalue="Application.AggregateByKeyJava" />
         <item itemvalue="Application.Hive" />
         <item itemvalue="Application.ConnectTest" />
         <item itemvalue="Application.InnerTables" />
-        <item itemvalue="Application.Mysql" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +174,7 @@
       <workItem from="1628082851831" duration="1504000" />
       <workItem from="1628085926552" duration="487000" />
       <workItem from="1628144772271" duration="5812000" />
-      <workItem from="1628152450964" duration="5700000" />
+      <workItem from="1628152450964" duration="7437000" />
     </task>
     <servers />
   </component>
