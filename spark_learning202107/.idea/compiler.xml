@@ -10,6 +10,7 @@
         <module name="hadoop-learn" />
         <module name="Hive" />
         <module name="spark23-core-learn" />
+        <module name="zookeeper-learn" />
       </profile>
     </annotationProcessing>
   </component>

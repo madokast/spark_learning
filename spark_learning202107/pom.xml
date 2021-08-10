@@ -13,6 +13,7 @@
         <module>hadoop-learn</module>
         <module>Hive</module>
         <module>spark23-core-learn</module>
+        <module>zookeeper-learn</module>
     </modules>
 
     <properties>

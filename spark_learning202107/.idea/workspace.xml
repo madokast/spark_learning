@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1281229-d1ea-44dd-b3a4-8e2b91fb728e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zookeeper-learn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-learn/src/main/java/com/atguigu/zk/ClientLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-learn/src/main/java/com/atguigu/zk/WatchLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zookeeper-learn/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../prog/jdk-8/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -62,14 +72,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Algorithm/java/leetcode" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zookeeper-learn/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.21012658" />
     <property name="project.structure.side.proportion" value="0.2690141" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\zookeeper-learn\src\main\resources" />
       <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\spark23-core-learn\src\main\java\com\atguigu\spark\core\dataFrame" />
       <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\spark23-core-learn\src\main\resources" />
       <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\hadoop-learn\src\main\resources" />
@@ -78,14 +89,14 @@
       <recent name="C:\Users\ZhaoRX\Documents\file\spark_learning\spark_learning202107\spark23-core-learn\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.zk" />
       <recent name="com.atguigu.spark.core.hdfs" />
       <recent name="com.atguigu.spark.core.dataFrame" />
       <recent name="com.atguigu.spark.core.other" />
       <recent name="com.atguigu.spark.core" />
-      <recent name="com.atguigu.spark.core.operator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SparkLauncherLearn">
+  <component name="RunManager" selected="Application.WatchLearn">
     <configuration name="AggregateByKeyJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.operator.AggregateByKeyJava" />
       <module name="spark23-core-learn" />
@@ -99,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConnectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.hive2.ConnectTest" />
-      <module name="Hive" />
+    <configuration name="ClientLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.zk.ClientLearn" />
+      <module name="zookeeper-learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.hive2.*" />
+          <option name="PATTERN" value="com.atguigu.zk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerTables" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.hive.InnerTables" />
-      <module name="spark23-core-learn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.spark.core.hive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SparkLauncherLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.spark.core.other.SparkLauncherLearn" />
       <module name="spark23-core-learn" />
@@ -151,13 +149,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WatchLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.zk.WatchLearn" />
+      <module name="zookeeper-learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.zk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WatchLearn" />
+        <item itemvalue="Application.ClientLearn" />
         <item itemvalue="Application.SparkLauncherLearn" />
         <item itemvalue="Application.AggregateByKeyJava" />
         <item itemvalue="Application.Hive" />
-        <item itemvalue="Application.ConnectTest" />
-        <item itemvalue="Application.InnerTables" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +185,7 @@
       <workItem from="1628085926552" duration="487000" />
       <workItem from="1628144772271" duration="5812000" />
       <workItem from="1628152450964" duration="7493000" />
+      <workItem from="1628567376017" duration="5743000" />
     </task>
     <servers />
   </component>
@@ -557,5 +569,9 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
