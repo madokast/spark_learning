@@ -1,11 +1,9 @@
 /atguigu_scala_learn/target/
 
-spark_learning202107/.idea/workspace.xml
-spark_learning202107/.idea/workspace.xml
-spark_learning202107/spark-core-learn/target/classes/com/atguigu/bigdata/spark/core/A01WordCount$.class
-
 **/**/target
 *.class
 *.class
-spark_learning202107/.idea/workspace.xml
-spark_learning202107/.idea/workspace.xml
+
+.idea
+**/.idea
+**/**/.idea
